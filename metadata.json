@@ -1,0 +1,6 @@
+{
+  "name": "Proteus — Higher Education AI Compass Dashboard",
+  "description": "Multi-stakeholder strategic intelligence and governance platform for higher education AI transformation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
